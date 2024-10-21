@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0165-compare-version-numbers) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1304-longest-happy-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0165-compare-version-numbers) |
 | [3195-separate-black-and-white-balls](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
