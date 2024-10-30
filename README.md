@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
