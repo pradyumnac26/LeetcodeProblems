@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3195-separate-black-and-white-balls) |
@@ -132,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
