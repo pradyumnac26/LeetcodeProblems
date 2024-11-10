@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3394-minimum-array-end) |
 ## Enumeration
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1940-maximum-xor-for-each-query) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
