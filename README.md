@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Greedy
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0089-gray-code) |
 | [0670-maximum-swap](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0670-maximum-swap) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2716-prime-subtraction-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
