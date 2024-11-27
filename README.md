@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2716-prime-subtraction-operation) |
+| [2737-row-with-maximum-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2737-row-with-maximum-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search Tree
 |  |
