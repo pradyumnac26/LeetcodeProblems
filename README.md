@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0165-compare-version-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0089-gray-code) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
