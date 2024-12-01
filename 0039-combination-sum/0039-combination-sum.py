@@ -25,5 +25,5 @@ class Solution:
         ans = []
         ds = []
         find_combinations(0, candidates, target, ds, ans)
-        return ans
+        return list(ans)
 
