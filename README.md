@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -322,11 +324,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
