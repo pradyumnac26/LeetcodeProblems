@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -324,12 +326,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
