@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2201-valid-arrangement-of-pairs) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2164-two-best-non-overlapping-events) |
