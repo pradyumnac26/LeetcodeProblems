@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0162-find-peak-element) |
