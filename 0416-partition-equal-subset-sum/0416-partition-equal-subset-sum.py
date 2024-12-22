@@ -1,5 +1,6 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
+   
         def f(i, target) : 
             if target == 0 : 
                 return True 
