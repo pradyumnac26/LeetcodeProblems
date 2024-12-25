@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
