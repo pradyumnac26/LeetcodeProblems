@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1170-shortest-common-supersequence) |
