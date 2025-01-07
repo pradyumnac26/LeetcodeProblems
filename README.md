@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1524-string-matching-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Divide and Conquer
 |  |
