@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1304-longest-happy-string) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2164-two-best-non-overlapping-events) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1036-rotting-oranges) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -571,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Linked List
