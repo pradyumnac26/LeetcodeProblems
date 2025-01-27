@@ -1,37 +1,25 @@
 class Solution:
-    # Performs DFS and returns true if there's a path between src and target and false otherwise.
-    def isPrerequisite(
-        self, adjList: dict, visited: List[bool], src: int, target: int
-    ) -> bool:
-        visited[src] = True
+    def checkIfPrerequisite(self, numCourses, prerequisites, queries):
+        # Initialize a 2D array to track prerequisites
+        is_prerequisite = [[False] * numCourses for _ in range(numCourses)]
 
-        if src == target:
-            return True
+        # Mark direct prerequisites
+        for pre, course in prerequisites:
+            is_prerequisite[pre][course] = True
 
-        for adj in adjList.get(src, []):
-            if not visited[adj]:
-                if self.isPrerequisite(adjList, visited, adj, target):
-                    return True
-        return False
+        # Apply Floyd-Warshall to compute indirect prerequisites
+        for k in range(numCourses):  # Intermediate course
+            for i in range(numCourses):  # Start course
+                for j in range(numCourses):  # End course
+                    if is_prerequisite[i][k] and is_prerequisite[k][j]:
+                        is_prerequisite[i][j] = True
 
-    def checkIfPrerequisite(
-        self,
-        numCourses: int,
-        prerequisites: List[List[int]],
-        queries: List[List[int]],
-    ) -> List[bool]:
-        adjList = {i: [] for i in range(numCourses)}
+        # Answer each query
+        answer = []
+        for u, v in queries:
+            answer.append(is_prerequisite[u][v])
 
-        for edge in prerequisites:
-            adjList[edge[0]].append(edge[1])
+        return answer
 
-        result = []
 
-        for query in queries:
-            # Reset the visited array for each query
-            visited = [False] * numCourses
-            result.append(
-                self.isPrerequisite(adjList, visited, query[0], query[1])
-            )
 
-        return result
