@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0670-maximum-swap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2716-prime-subtraction-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
