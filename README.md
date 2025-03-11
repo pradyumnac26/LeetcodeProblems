@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2414-move-pieces-to-obtain-a-string) |
