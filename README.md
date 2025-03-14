@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3334-apple-redistribution-into-boxes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3427-special-array-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3195-separate-black-and-white-balls) |
+| [3334-apple-redistribution-into-boxes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3334-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3334-apple-redistribution-into-boxes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting
 |  |
 | ------- |
