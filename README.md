@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2868-continuous-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3394-minimum-array-end) |
 ## Enumeration
