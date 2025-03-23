@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1954-replace-all-digits-with-characters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1954-replace-all-digits-with-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2186-count-vowel-substrings-of-a-string) |
