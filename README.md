@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
 |  |
 | ------- |
