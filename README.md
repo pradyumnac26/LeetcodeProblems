@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0890-lemonade-change) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
+| [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
 | [0953-reverse-only-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
