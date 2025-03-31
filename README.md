@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0328-odd-even-linked-list) |
 ## Eulerian Circuit
