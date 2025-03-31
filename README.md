@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0012-integer-to-roman) |
+| [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1078-remove-outermost-parentheses) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
