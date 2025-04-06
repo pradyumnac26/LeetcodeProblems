@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Greedy
 |  |
 | ------- |
