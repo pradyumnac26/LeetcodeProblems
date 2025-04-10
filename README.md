@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2487-optimal-partition-of-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
+| [2487-optimal-partition-of-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2487-optimal-partition-of-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
