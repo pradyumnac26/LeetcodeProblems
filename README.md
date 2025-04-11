@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1965-sum-of-digits-in-base-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
