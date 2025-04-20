@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1304-longest-happy-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1304-longest-happy-string) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
