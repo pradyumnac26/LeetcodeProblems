@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
