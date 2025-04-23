@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
