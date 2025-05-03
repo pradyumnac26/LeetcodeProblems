@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1063-best-sightseeing-pair) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1917-maximum-average-pass-ratio) |
