@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
