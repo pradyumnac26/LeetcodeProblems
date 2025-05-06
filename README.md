@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3859-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3859-maximum-product-of-two-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
