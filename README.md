@@ -645,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0687-longest-univalue-path) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0687-longest-univalue-path) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0684-redundant-connection) |
+| [0687-longest-univalue-path](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
