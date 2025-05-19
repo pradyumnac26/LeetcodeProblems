@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
