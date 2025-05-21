@@ -18,7 +18,7 @@ class Solution:
         x = TreeNode(val = res[0])
         tmp = x
         for i in res[1:] : 
-            tmp.right = TreeNode(val=i)
+            tmp.right = TreeNode(i)
             tmp = tmp.right
         return x
 
