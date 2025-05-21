@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0933-increasing-order-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1078-remove-outermost-parentheses) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0687-longest-univalue-path) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -935,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
