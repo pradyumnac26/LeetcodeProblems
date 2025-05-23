@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
+| [0804-rotated-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0804-rotated-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1500-count-largest-group) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0804-rotated-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0806-domino-and-tromino-tiling) |
 | [0815-champagne-tower](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0815-champagne-tower) |
 | [0943-sum-of-subarray-minimums](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0943-sum-of-subarray-minimums) |
