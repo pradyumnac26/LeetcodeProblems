@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1065,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
@@ -1088,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1113,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1073-number-of-enclaves) |
