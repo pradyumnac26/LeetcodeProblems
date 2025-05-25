@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
