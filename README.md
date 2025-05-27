@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0343-integer-break](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0343-integer-break](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
