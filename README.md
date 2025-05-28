@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
+| [1331-path-with-maximum-gold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
+| [1331-path-with-maximum-gold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1331-path-with-maximum-gold) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1331-path-with-maximum-gold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
