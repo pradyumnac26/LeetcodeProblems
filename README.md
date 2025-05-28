@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1169,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
