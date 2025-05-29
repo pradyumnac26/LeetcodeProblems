@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0057-insert-interval) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0125-valid-palindrome) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -1116,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
