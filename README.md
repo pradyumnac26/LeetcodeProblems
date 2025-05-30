@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0933-increasing-order-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0943-sum-of-subarray-minimums) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
