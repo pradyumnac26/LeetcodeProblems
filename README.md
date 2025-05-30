@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0744-network-delay-time) |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
@@ -1297,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Interactive
 |  |
