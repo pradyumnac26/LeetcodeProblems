@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -1076,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
@@ -1307,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
