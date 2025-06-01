@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2472-build-a-matrix-with-conditions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2472-build-a-matrix-with-conditions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2793-count-the-number-of-complete-components) |
@@ -1309,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2472-build-a-matrix-with-conditions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 ## Design
 |  |
 | ------- |
