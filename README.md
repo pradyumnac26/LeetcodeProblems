@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
@@ -1187,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1039-find-the-town-judge) |
@@ -1247,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
