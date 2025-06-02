@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0491-non-decreasing-subsequences) |
+| [0525-contiguous-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0692-top-k-frequent-words) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
