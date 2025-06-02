@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
+| [0861-flipping-an-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
+| [0861-flipping-an-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0800-letter-case-permutation) |
+| [0861-flipping-an-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1022-unique-paths-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0861-flipping-an-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0861-flipping-an-image) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2232-adding-spaces-to-a-string) |
@@ -1087,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0777-toeplitz-matrix) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
+| [0861-flipping-an-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1022-unique-paths-iii) |
