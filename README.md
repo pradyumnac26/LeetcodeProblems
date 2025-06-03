@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0933-increasing-order-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
