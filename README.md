@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2487-optimal-partition-of-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -968,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
