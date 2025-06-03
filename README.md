@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3034-points-that-intersect-with-cars](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3034-points-that-intersect-with-cars) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2915-count-of-interesting-subarrays) |
+| [3034-points-that-intersect-with-cars](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2915-count-of-interesting-subarrays) |
+| [3034-points-that-intersect-with-cars](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3639-zero-array-transformation-i) |
