@@ -882,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1254-deepest-leaves-sum) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1558-course-schedule-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
@@ -1320,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -1384,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
