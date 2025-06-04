@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2145-grid-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2164-two-best-non-overlapping-events) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2227-sum-of-subarray-ranges) |
 | [2470-removing-stars-from-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1277,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2227-sum-of-subarray-ranges) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
