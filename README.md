@@ -846,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1876-map-of-highest-peak) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2201-valid-arrangement-of-pairs) |
