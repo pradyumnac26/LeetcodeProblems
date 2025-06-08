@@ -1007,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0419-battleships-in-a-board) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
