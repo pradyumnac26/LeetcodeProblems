@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3838-path-existence-queries-in-a-graph-i) |
