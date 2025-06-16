@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2164-two-best-non-overlapping-events) |
