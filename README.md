@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2487-optimal-partition-of-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2300-construct-string-with-repeat-limit) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2164-two-best-non-overlapping-events) |
 | [2187-vowels-of-all-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2562-count-ways-to-build-good-strings) |
@@ -1584,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Bucket Sort
 |  |
 | ------- |
