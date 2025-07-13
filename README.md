@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2487-optimal-partition-of-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2447-merge-similar-items](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2554-minimum-total-distance-traveled) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2586-longest-square-streak-in-an-array) |
