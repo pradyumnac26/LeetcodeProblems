@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0857-positions-of-large-groups) |
 | [0953-reverse-only-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0961-long-pressed-name) |
 | [1023-time-based-key-value-store](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-long-pressed-name](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0961-long-pressed-name) |
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
