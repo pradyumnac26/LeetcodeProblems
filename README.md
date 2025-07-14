@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0976-minimum-area-rectangle) |
 | [1018-largest-perimeter-triangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1524,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0328-odd-even-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Eulerian Circuit
 |  |
 | ------- |
