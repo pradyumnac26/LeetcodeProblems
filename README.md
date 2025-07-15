@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2476-check-distances-between-same-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2476-check-distances-between-same-letters) |
 | [2478-longest-nice-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
+| [2476-check-distances-between-same-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2447-merge-similar-items) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2476-check-distances-between-same-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
