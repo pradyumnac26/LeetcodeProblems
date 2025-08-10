@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0804-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0830-largest-triangle-area) |
+| [0900-reordered-power-of-2](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [0976-minimum-area-rectangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0976-minimum-area-rectangle) |
 | [1018-largest-perimeter-triangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0976-minimum-area-rectangle) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [0958-sort-array-by-parity-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [0976-minimum-area-rectangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2037-count-square-sum-triples) |
