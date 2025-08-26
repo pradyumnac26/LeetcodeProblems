@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
