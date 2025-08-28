@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1253-sort-the-matrix-diagonally](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1222-remove-covered-intervals) |
+| [1253-sort-the-matrix-diagonally](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1327,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1331-path-with-maximum-gold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1402-count-square-submatrices-with-all-ones) |
