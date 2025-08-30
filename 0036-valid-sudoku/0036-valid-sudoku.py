@@ -14,5 +14,5 @@ class Solution:
 
                 cols[c].append(board[r][c])
                 rows[r].append(board[r][c])
-                squares[(r//3, c//3)].append(board[r][c])      
+                squares[(r//3, c//3)].append(board[r][c])   
         return True
