@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0208-implement-trie-prefix-tree) |
@@ -1588,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
