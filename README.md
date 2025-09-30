@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0097-interleaving-string) |
