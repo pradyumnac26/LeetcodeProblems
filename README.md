@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0343-integer-break) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0491-non-decreasing-subsequences) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
@@ -852,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0268-missing-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0693-binary-number-with-alternating-bits) |
@@ -1216,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0354-russian-doll-envelopes) |
 | [0611-valid-triangle-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0611-valid-triangle-number) |
