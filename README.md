@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0057-insert-interval) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0069-sqrtx) |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
