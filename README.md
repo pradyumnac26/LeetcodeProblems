@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0221-maximal-square) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
@@ -1361,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1628,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0684-redundant-connection) |
