@@ -1,19 +1,19 @@
 class Solution:
     def findChampion(self, n: int, edges: List[List[int]]) -> int:
-        incoming = [0]*n
-        ans = [] 
-        for src, dst in edges : 
-            incoming[dst] += 1
-    
-        for i,incoming_cnt in enumerate(incoming) : 
-            if not incoming_cnt : 
-                ans.append(i)
-
-        
-        if len(ans) > 1 : 
+        adj = defaultdict(list) 
+        indegree = [0]*n 
+        cnt = 0
+        tmp =0
+        for u, v in edges : 
+            indegree[v] +=1
+        for i in range(len(indegree)): 
+            if indegree[i] == 0 : 
+                cnt+=1 
+                tmp = i
+        if cnt > 1 : 
             return -1 
         else : 
-            return ans[0]
-            
+            return tmp
+
 
         
