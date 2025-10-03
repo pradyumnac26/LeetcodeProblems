@@ -1,28 +1,32 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-        ROWS, COLS = len(grid), len(grid[0])
-        vis =set()
-        directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
-        def dfs(r, c): 
-            vis.add((r, c))
-            area = 1
-            for dr, dc in directions : 
-                new_row, new_col = r + dr, c + dc
-                if 0<=new_row<ROWS and 0 <=new_col<COLS and (new_row, new_col) not in vis and grid[new_row][new_col] == 1 : 
-                    area += dfs(new_row, new_col)
-                    
+        # return the maximum area of island in grid, if there is no island,, return 0
+        # meaning which island has more number of cells.
+        rows, cols = len(grid), len(grid[0])
+        vis = [[False]*cols for _ in range(rows)]
+        def dfs(r, c, area) : 
+            if r < 0 or r >= rows or c < 0 or c >= cols : 
+                return area
+            if grid[r][c] == 0 : 
+                return area
+            if vis[r][c] == True : 
+                return area
+            vis[r][c] = True
+            area = area + 1 
+            area = dfs(r+1, c, area)
+            area = dfs(r, c+1, area)
+            area = dfs(r, c-1, area)
+            area = dfs(r-1, c, area)
             return area
 
-
-
-        maxarea = 0
-        for i in range(len(grid)): 
-            for j in range(COLS): 
-                if grid[i][j] == 1 : 
-                    maxarea = max(maxarea, dfs(i, j))
-                    
+        area = 0 
+        maxarea =0
+        for i in range(rows) : 
+            for j in range(cols) : 
+                if grid[i][j] == 1 and vis[i][j] == False : 
+                    maxarea = max(dfs(i, j, 0), maxarea) 
         return maxarea
-        
+
 
 
         
