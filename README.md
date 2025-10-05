@@ -1057,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1179,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
@@ -1575,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
@@ -1700,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1558-course-schedule-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
