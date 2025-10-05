@@ -1,28 +1,22 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        n = numCourses
-        indegree = [0]*n
-        topo = []
-        adj = defaultdict(list)
-        for dst, src in prerequisites : 
-            indegree[dst]+=1
-            adj[src].append(dst)
-
+        # topo sort ordering. 
+        indegree = [0]*numCourses 
         q = deque()
-        for i in range(n): 
-            if indegree[i] == 0 : 
-                q.append(i)
+        adj = defaultdict(list) 
+        for u, v in prerequisites : 
+            adj[v].append(u)
+            indegree[u] +=1
 
-        while q: 
+        for node, deg in enumerate(indegree): 
+            if deg == 0 : 
+                q.append(node)
+        res = [] 
+        while q : 
             node = q.popleft()
-            topo.append(node)
-            for nei in adj[node]: 
-                    indegree[nei]-=1
-                    if indegree[nei] == 0 : 
-                        q.append(nei)
-        return topo if len(topo) == numCourses else []
-
-
-
-
-        
+            res.append(node) 
+            for nei in adj[node] : 
+                indegree[nei]-=1 
+                if indegree[nei] == 0 : 
+                    q.append(nei)
+        return res if len(res) == numCourses else []      
