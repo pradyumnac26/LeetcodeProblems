@@ -6,21 +6,20 @@
 #         self.right = right
 class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
-        x1 = [] 
-        x2 = [] 
-        def dfs(root, result): 
-            if root is None : 
-                return 
-            if root.left is None and root.right is None: 
-                result.append(root.val)
-                return
+        def dfs(root, path) : 
+            if not root : 
+                return path 
+            if root.left is None and root.right is None : 
+                path.append(root.val) 
+                return path
+            dfs(root.left, path)
+            dfs(root.right, path)
+            return path
+
+        leaves1 = [] 
+        leaves2 = []
+        leaves1 = dfs(root1, leaves1) 
+        leaves2 = dfs(root2, leaves2) 
+        return leaves1 == leaves2
             
-            dfs(root.left, result)
-            dfs(root.right, result)
-        
-        dfs(root1,x1)
-        dfs(root2,x2)
-        return x1==x2
-        
-        
         
