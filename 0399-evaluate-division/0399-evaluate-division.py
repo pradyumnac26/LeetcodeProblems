@@ -1,51 +1,32 @@
+from collections import defaultdict
+
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
-        # given a/b as 2 and b/c as 3, so a = 2b and b = 3c.
-        # a/c = a/b * b/c = 6 
-        # a ->b weight = 2, b- >c weight as 3. -> 6 
-        # 
-
+        # Step 1: Build adjacency list
         adj = defaultdict(list)
-        for i in range(len(equations)): 
-            adj[equations[i][0]].append((equations[i][1], values[i]))
-            adj[equations[i][1]].append((equations[i][0], 1/values[i]))
-        print(adj)
+        for idx, (u, v) in enumerate(equations):
+            adj[u].append((v, values[idx]))       # u / v = values[idx]
+            adj[v].append((u, 1 / values[idx]))   # v / u = 1 / values[idx]
 
-
-
-        def dfs(src, dst, vis, adj, prod):
-
-            if src not in adj or dst not in adj : 
-                return -1
-            if src == dst : 
-                return prod
-
-            vis.add(src)
-            for nei, wt in adj[src] : 
-                if nei not in vis : 
-                   result =  dfs(nei, dst,vis,  adj, prod*wt)
-                   if result != -1: 
-                        return result 
-
+        # Step 2: Define DFS
+        def dfs(node, target, value):
+            if node == target:
+                return value
+            vis.add(node)
+            for nei, wt in adj[node]:
+                if nei not in vis:
+                    ans = dfs(nei, target, value * wt)
+                    if ans != -1:
+                        return ans
             return -1
-                
 
-
-
-            
-            
-            
-
-
-        res = [] 
-        vis = set()
-        for i in range(len(queries)): 
-            res.append(dfs(queries[i][0], queries[i][1], set(), adj, 1))
+        # Step 3: Answer each query
+        res = []
+        for node, target in queries:
+            if node not in adj or target not in adj:
+                res.append(-1.0)
+                continue
+            vis = set()
+            ans = dfs(node, target, 1)
+            res.append(ans)
         return res
-
-            
-
-
-
-        
-        
