@@ -1,14 +1,17 @@
 class Solution:
-    def allPathsSourceTarget(self, graph):
-        res = []
-        target = len(graph) - 1
-
+    def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
         def dfs(node, path):
-            if node == target:
-                res.append(path[:])
+            if node == len(graph) - 1:
+                res.append(path.copy())
                 return
-            for neighbor in graph[node]:
-                dfs(neighbor, path + [neighbor])
+            for nei in graph[node]:
+                path.append(nei)     # \U0001f448 add next node before exploring
+                dfs(nei, path)
+                path.pop()           # \U0001f448 backtrack after returning
 
-        dfs(0, [0])
+        res = []
+        dfs(0, [0])                  # \U0001f448 start with [0] as initial path
         return res
+
+
+        
