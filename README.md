@@ -1009,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1064,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
@@ -1142,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
