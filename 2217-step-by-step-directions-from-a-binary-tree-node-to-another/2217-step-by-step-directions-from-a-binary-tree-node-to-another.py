@@ -1,43 +1,32 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
 class Solution:
-    def getDirections(self, root: Optional[TreeNode], startValue: int, destValue: int) -> str:
-        def dfs(root, path, target):
-            if not root : 
+    def getDirections(self, root, startValue, destValue):
+        def dfs(node, value, path):
+            if not node:
                 return False
-            if root.val == target : 
-                return path
+            if node.val == value:
+                return True
 
+            path.append('L')
+            if dfs(node.left, value, path):
+                return True
+            path.pop()
 
-            path.append("L")
-            res = dfs(root.left, path, target)
-            if res : 
-                return res
+            path.append('R')
+            if dfs(node.right, value, path):
+                return True
             path.pop()
-            path.append("R")
-            res = dfs(root.right, path, target) 
-            if res : 
-                return res
-            path.pop()
+
             return False
 
+        path_to_start = []
+        path_to_dest = []
+        dfs(root, startValue, path_to_start)
+        dfs(root, destValue, path_to_dest)
 
-        start = [] 
-        end = [] 
-        start_path = dfs(root, start, startValue)
-        end_path = dfs(root, end, destValue)
-        i = 0 
-        while i < min(len(start_path), len(end_path)): 
-            if start_path[i] != end_path[i]: 
-                break
-            i = i + 1
+        # Find where paths diverge
+        i = 0
+        while i < len(path_to_start) and i < len(path_to_dest) and path_to_start[i] == path_to_dest[i]:
+            i += 1
 
-        st = ["U"]*len(start_path[i:]) + end_path[i:]
-        return "".join(st)
-
-
-        
+        # Move up from start to LCA, then down to destination
+        return 'U' * (len(path_to_start) - i) + ''.join(path_to_dest[i:])
