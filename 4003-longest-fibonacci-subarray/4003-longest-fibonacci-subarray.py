@@ -11,7 +11,7 @@ class Solution:
                 return False
 
         
-        cnt = 0 
+        cnt = 1
         longest = 0
         for i in range(len(nums)) : 
             if i >=2 and is_fibonacci(i) : 
