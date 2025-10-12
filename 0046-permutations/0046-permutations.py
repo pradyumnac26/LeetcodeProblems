@@ -1,20 +1,18 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        res = [] 
-        hmap = defaultdict(bool) 
-        def backtrack(nums, path, hmap, res): 
-            if len(path) == len(nums) :
+        def backtrack(i, path) : 
+            if len(path) == len(nums) : 
                 res.append(path)
-                return  
+                return 
 
 
-            for i in range(len(nums)): 
-                if not hmap[i] : 
-                    hmap[i] = True 
-                    backtrack(nums,path + [nums[i]], hmap, res )
-                    hmap[i] = False
+            for j in range(i, len(nums)) : 
+                nums[i], nums[j] = nums[j], nums[i]
+                backtrack(i+1, path + [nums[i]])
+                nums[i], nums[j] = nums[j], nums[i]
 
 
-        backtrack(nums, [], hmap, res) 
+        res = []
+        backtrack(0,[])
         return res
         
