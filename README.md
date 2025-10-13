@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1366,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1807,6 +1809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
