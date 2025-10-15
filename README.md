@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0069-sqrtx) |
@@ -1368,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0096-unique-binary-search-trees) |
@@ -1794,6 +1796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2187-vowels-of-all-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2187-vowels-of-all-substrings) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2415-count-the-number-of-ideal-arrays) |
