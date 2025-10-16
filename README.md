@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0020-valid-parentheses) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0086-partition-list) |
@@ -1371,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0062-unique-paths) |
