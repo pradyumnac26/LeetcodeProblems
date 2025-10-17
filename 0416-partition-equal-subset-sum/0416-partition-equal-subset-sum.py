@@ -1,27 +1,20 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-   
-        def f(i, target) : 
-            if target == 0 : 
+        def f(i, sumi, target) :
+            if sumi == target : 
                 return True 
-            if i == 0 : 
-                return nums[0] == target 
-            if dp[i][target] != -1 : 
-                return dp[i][target]
+            if i >= len(nums) or sumi > target : 
+                return False
+            if dp[i][sumi] != -1 : 
+                return dp[i][sumi]
 
-            nottaken = f(i - 1, target)
-            taken = False
-            if target >= nums[i] : 
-                taken = f(i -1, target - nums[i])
-            dp[i][target] = taken or nottaken
-            return dp[i][target]
+            dp[i][sumi] = f(i+1, sumi + nums[i], target) or f(i+1, sumi, target)
+            return dp[i][sumi]
 
-        totalSum = sum(nums)
-        k = totalSum//2 
-        if totalSum % 2 == 1 : 
+
+        total = sum(nums) 
+        if total % 2 != 0 :
             return False
-        else : 
-            dp = [[-1]*(k+1) for i in range(len(nums))]
-            return f(len(nums)-1, k)
-
+        dp = [[-1]*(total//2 + 1) for _ in range(len(nums))]
+        return f(0, 0, total//2)
         
