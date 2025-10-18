@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0433-minimum-genetic-mutation) |
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0491-non-decreasing-subsequences) |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
