@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0242-valid-anagram) |
