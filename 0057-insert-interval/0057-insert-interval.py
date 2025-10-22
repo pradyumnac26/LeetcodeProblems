@@ -1,16 +1,22 @@
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
-        intervals.append(newInterval)
-        intervals.sort(key=lambda x: x[0])  # ensure sorted by start
+        n = len(intervals) 
+        i = 0 
+        res = [] 
 
-        res = [intervals[0]]
+        # no overlap 
+        while i < n and intervals[i][1] < newInterval[0] : 
+            res.append(intervals[i]) 
+            i = i + 1 
+        
+        while i < n and newInterval[1]  >= intervals[i][0]: 
+            newInterval[0] = min(newInterval[0], intervals[i][0])
+            newInterval[1] = max(newInterval[1], intervals[i][1])
+            i = i + 1 
+        res.append(newInterval)
 
-        for start, end in intervals[1:]:
-            # compare with the last interval in result
-            if res[-1][1] >= start:  # overlap
-                res[-1][1] = max(res[-1][1], end)
-            else:
-                res.append([start, end])
+        while i < n : 
+            res.append(intervals[i]) 
+            i = i + 1 
         return res
-
-
+        
