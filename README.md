@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1362,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
@@ -1755,6 +1757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2447-merge-similar-items) |
@@ -1793,6 +1796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
@@ -1829,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0729-my-calendar-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0729-my-calendar-i) |
 | [1023-time-based-key-value-store](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
