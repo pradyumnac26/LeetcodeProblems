@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
