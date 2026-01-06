@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1975-maximum-matrix-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1975-maximum-matrix-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2117-find-original-array-from-doubled-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2117-find-original-array-from-doubled-array) |
@@ -1543,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2145-grid-game) |
