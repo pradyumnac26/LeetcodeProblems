@@ -12,19 +12,25 @@ class Solution:
         q = deque([root])
         sumi = 0 
         level = [] 
-        res = []
+        res = 0
+        maxi = float('-inf')
+        cnt = 0 
+
         while q : 
-            level = [] 
+            sumi = 0
+            cnt +=1
             for _ in range(len(q)): 
                 node = q.popleft() 
-                level.append(node.val)
+                sumi = sumi + node.val
                 if node.left : 
                     q.append(node.left)
                 if node.right : 
                     q.append(node.right)
-            res.append(sum(level))
+            if sumi > maxi : 
+                maxi = sumi 
+                res = cnt
         
-        return res.index(max(res)) + 1
+        return res
 
 
 
