@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1184-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1253-sort-the-matrix-diagonally) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1184-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1222-remove-covered-intervals) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
