@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1651-shuffle-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -1490,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1986-largest-color-value-in-a-directed-graph) |
