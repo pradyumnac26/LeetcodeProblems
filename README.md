@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -1616,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2280-count-good-triplets-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1648,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
+| [3719-longest-balanced-subarray-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
 |  |
@@ -1847,6 +1851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3719-longest-balanced-subarray-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Rolling Hash
 |  |
