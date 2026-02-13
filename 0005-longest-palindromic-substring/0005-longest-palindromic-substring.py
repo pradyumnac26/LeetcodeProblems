@@ -1,29 +1,41 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        res = "" 
-        resLen =0 
-        startIdx = 0 
-        for i in range(len(s)) : 
-            l, r = i, i 
-            while l >=0 and r < len(s) and s[l] == s[r] : 
-                if (r - l +1) >  resLen : 
-                    resLen = r-l+1 
-                    startIdx = l 
-                l = l -1 
-                r = r + 1 
+        if len(s) == 1:
+            return s
 
-            l, r = i, i + 1 
-            while l >= 0 and r < len(s) and s[l] == s[r] : 
-                if (r-l+1) > resLen : 
-                    resLen = r - l + 1 
-                    startIdx = l 
-                l = l -1 
-                r = r + 1 
-        return s[startIdx: startIdx+resLen]
+        res = ""
+        longest = 0
+
+        # odd length
+        for k in range(len(s)):
+            i = k - 1
+            j = k + 1
+            while i >= 0 and j < len(s):
+                if s[i] != s[j]:
+                    break
+                curr = j - i + 1
+                if curr > longest:
+                    longest = curr
+                    res = s[i:j+1]
+                i -= 1
+                j += 1
+
+        # even length
+        for k in range(len(s) - 1):
+            i = k
+            j = k + 1
+            while i >= 0 and j < len(s):
+                if s[i] != s[j]:
+                    break
+                curr = j - i + 1
+                if curr > longest:
+                    longest = curr
+                    res = s[i:j+1]
+                i -= 1
+                j += 1
+
+        # if no length>=2 palindrome found, return any single char
+        return res if res != "" else s[0]
 
 
-
-        
-
-        
         
