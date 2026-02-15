@@ -1958,4 +1958,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
