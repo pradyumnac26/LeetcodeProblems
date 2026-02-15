@@ -1,24 +1,44 @@
 class Solution:
     def findMinHeightTrees(self, n: int, edges: List[List[int]]) -> List[int]:
-        if n == 1:
-            return [0]
+        # connected, undirected and n cycles > tree 
+        # node x as the root, 
 
-        graph = defaultdict(set)
-        for a, b in edges:
-            graph[a].add(b)
-            graph[b].add(a)
+        adj = defaultdict(list) 
+        for u, v in edges : 
+            adj[u].append(v)
+            adj[v].append(u)
+        
+        def dfs(node, depth, vis, maxi) : 
+            if node in vis : 
+                return maxi
+            vis.add(node)
+            maxi = max(maxi, depth)
+            for nei in adj[node] : 
+                maxi = max(maxi, dfs(nei, depth+1, vis,maxi )) 
+            return maxi
 
-        leaves = [i for i in range(n) if len(graph[i]) == 1]
 
-        while n > 2:
-            n -= len(leaves)
-            new_leaves = []
-            for leaf in leaves:
-                neighbor = graph[leaf].pop()
-                graph[neighbor].remove(leaf)
-                if len(graph[neighbor]) == 1:
-                    new_leaves.append(neighbor)
-            leaves = new_leaves
 
-        return leaves
+
+        res = [] 
+        final = [] 
+        mini = float('inf')
+
+        for i in range(n):
+            vis = set() 
+            maxi = 0 
+            res.append(dfs(i, 0, vis, maxi) )
+        
+        mini = min(res)
+        for i in range(len(res)) : 
+            if mini == res[i] : 
+                final.append(i)
+        return final 
+
+            
+
+
+        
+        
+
         
