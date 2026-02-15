@@ -1962,4 +1962,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
