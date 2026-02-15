@@ -1,22 +1,20 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         # topological sort 
-        q = deque()
-        indegree = [0]*numCourses
         adj = defaultdict(list)
-        for u, v in prerequisites : 
-            adj[v].append(u)
-            indegree[u]+=1
-        print(adj, indegree)
-        q = deque()
-        for node, deg in enumerate(indegree): 
-            if deg == 0 : 
-                q.append(node)
+        q = deque() 
         res = [] 
+        indegree = [0]*numCourses
+        for u, v in prerequisites : 
+            adj[v].append(u) 
+            indegree[u]+=1 
+        for i in range(len(indegree)) : 
+            if indegree[i] == 0 : 
+                q.append(i)
         while q : 
             node = q.popleft() 
             res.append(node)
-            for nei in adj[node] :
+            for nei in adj[node]: 
                 indegree[nei]-=1 
                 if indegree[nei] == 0 : 
                     q.append(nei)
@@ -25,9 +23,8 @@ class Solution:
         else : 
             return False
 
+        
 
-            
-            
 
         
 
