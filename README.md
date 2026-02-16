@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0611-valid-triangle-number) |
@@ -1423,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0354-russian-doll-envelopes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0713-subarray-product-less-than-k) |
