@@ -708,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0217-contains-duplicate) |
@@ -1827,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1912,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1974,4 +1977,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
