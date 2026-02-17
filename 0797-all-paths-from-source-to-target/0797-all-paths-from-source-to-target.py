@@ -5,7 +5,7 @@ class Solution:
 
         def dfs(node, path):
             if node == target:
-                res.append(path[:])
+                res.append(path)
                 return
             for neighbor in graph[node]:
                 dfs(neighbor, path + [neighbor])
