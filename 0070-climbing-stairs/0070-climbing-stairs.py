@@ -1,8 +1,13 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        one, two = 1, 1
-        for _ in range(n - 1):
-            temp = one
-            one = one + two
-            two = temp
-        return one
+        @lru_cache(None)
+        def f(i) : 
+            if i <= 1 : 
+                return 1 
+            left = f(i-1)
+            right = f(i-2)
+            return left + right 
+
+        return f(n)
+
+        
