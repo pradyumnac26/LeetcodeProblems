@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1642-furthest-building-you-can-reach](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1642-furthest-building-you-can-reach) |
 | [1651-shuffle-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1642-furthest-building-you-can-reach](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1642-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1917-maximum-average-pass-ratio) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1642-furthest-building-you-can-reach](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1642-furthest-building-you-can-reach) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2094-remove-stones-to-minimize-the-total) |
