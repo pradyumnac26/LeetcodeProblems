@@ -2006,6 +2006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0178-rank-scores) |
 | [0596-classes-with-at-least-5-students](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0596-classes-with-at-least-5-students) |
 | [1045-customers-who-bought-all-products](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1070-product-sales-analysis-iii) |
