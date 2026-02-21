@@ -2010,6 +2010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
