@@ -2010,6 +2010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0185-department-top-three-salaries) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0596-classes-with-at-least-5-students) |
 | [1045-customers-who-bought-all-products](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1070-product-sales-analysis-iii) |
