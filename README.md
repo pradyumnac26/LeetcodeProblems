@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0433-minimum-genetic-mutation) |
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0647-palindromic-substrings) |
@@ -1516,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0494-target-sum) |
