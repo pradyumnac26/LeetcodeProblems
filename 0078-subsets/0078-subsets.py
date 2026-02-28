@@ -1,19 +1,18 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        def backtrack(i, res) : 
-            if i == len(nums) : 
-                x.append(res)
-                print(res)
-                print(x)
+
+
+        def dfs(i, res) : 
+            if i  == len(nums) : 
+                ans.append(res)
                 return 
 
 
-            backtrack(i+1, res + [nums[i]])
-            backtrack(i+1, res)
-            
+            pick = dfs(i+1, res + [nums[i]]) 
+            nonpick = dfs(i+1, res) 
 
-
+        ans = [] 
         res = [] 
-        x = [] 
-        backtrack(0, res)
-        return x
+        dfs(0, res)
+        return ans 
+        
