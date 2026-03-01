@@ -1,28 +1,27 @@
+from typing import List
+
 class Solution:
-    def largestDivisibleSubset(self, nums):
+    def largestDivisibleSubset(self, nums: List[int]) -> List[int]:
         if not nums:
             return []
 
         nums.sort()
         n = len(nums)
-        dp = [1] * n         # dp[i] = length of longest divisible subset ending at i
-        prev = [-1] * n      # prev[i] = index of previous element in subset
-        max_len = 1
-        max_idx = 0
 
-        for i in range(n):
-            for j in range(i):
-                if nums[i] % nums[j] == 0 and dp[j] + 1 > dp[i]:
-                    dp[i] = dp[j] + 1
-                    prev[i] = j
-            if dp[i] > max_len:
-                max_len = dp[i]
-                max_idx = i
+        lds = [1] * n
+        nxt = [-1] * n
+        res = [] 
 
-        # Reconstruct subset
-        res = []
-        while max_idx != -1:
-            res.append(nums[max_idx])
-            max_idx = prev[max_idx]
+        for i in range(n - 1, -1, -1):
+            for j in range(i + 1, n):
+                if nums[j] % nums[i] == 0:
+                    if 1 + lds[j] > lds[i]:
+                        lds[i] = 1 + lds[j]
+                        nxt[i] = j
 
-        return res[::-1]  # Reverse to get correct order
+        start = lds.index(max(lds))
+        while start != -1 : 
+            res.append(nums[start]) 
+            start = nxt[start]
+        return res
+
