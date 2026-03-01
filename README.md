@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1048-longest-string-chain) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0961-long-pressed-name) |
 | [1023-time-based-key-value-store](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1023-time-based-key-value-store) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1048-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0961-long-pressed-name) |
+| [1048-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1048-longest-string-chain) |
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1039-find-the-town-judge) |
+| [1048-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1048-longest-string-chain) |
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
@@ -861,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1048-longest-string-chain) |
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1184-car-pooling) |
@@ -1542,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1025-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1048-longest-string-chain) |
 | [1063-best-sightseeing-pair](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1170-shortest-common-supersequence) |
