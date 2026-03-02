@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0433-minimum-genetic-mutation) |
+| [0516-longest-palindromic-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0648-replace-words) |
@@ -1536,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0646-maximum-length-of-pair-chain) |
