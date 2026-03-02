@@ -2059,4 +2059,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
