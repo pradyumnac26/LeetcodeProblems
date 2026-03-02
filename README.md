@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -1558,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1250-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1618,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-path-with-maximum-gold](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
