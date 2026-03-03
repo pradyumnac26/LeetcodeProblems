@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0455-assign-cookies) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0583-delete-operation-for-two-strings) |
@@ -1099,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1780,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0943-sum-of-subarray-minimums) |
