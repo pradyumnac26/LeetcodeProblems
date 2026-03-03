@@ -1055,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
@@ -1883,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
