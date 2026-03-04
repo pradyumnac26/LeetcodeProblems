@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
@@ -1558,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0804-rotated-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0804-rotated-digits) |
