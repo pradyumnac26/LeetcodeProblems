@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2476-check-distances-between-same-letters) |
 | [2478-longest-nice-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2478-longest-nice-subarray) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -1084,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-apply-operations-to-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1660,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2472-build-a-matrix-with-conditions) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
