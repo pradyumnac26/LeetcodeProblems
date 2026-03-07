@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0994-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1025-minimum-cost-for-tickets) |
@@ -1254,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1036-rotting-oranges) |
@@ -1635,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1073-number-of-enclaves) |
