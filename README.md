@@ -2050,6 +2050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
 ## Doubly-Linked List
 |  |
@@ -2085,4 +2086,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
