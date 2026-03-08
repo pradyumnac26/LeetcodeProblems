@@ -1,23 +1,24 @@
 class Solution:
     def minMutation(self, startGene: str, endGene: str, bank: List[str]) -> int:
-        s = set(bank) 
         q = deque([(startGene, 0)])
-        s.discard(startGene)
-        if endGene not in s : 
-            return -1 
+        bank_set = set(bank) 
+        vis = set()
+
 
         while q : 
-            gene, step = q.popleft() 
+            gene, dist = q.popleft()
             if gene == endGene : 
-                return step 
-            for i in range(len(gene)): 
-                tochange = gene[i]  
-                for ch in "ACGT" : 
-                    new_gene = gene[:i] + ch + gene[i+1:] 
-                    if new_gene in s : 
-                        s.remove(new_gene) 
-                        q.append((new_gene, step+1)) 
+                return dist 
+            for i in range(len(startGene)) : 
+                for ch in "ACGT" :
+                    newWord = gene[:i] + ch + gene[i+1:] 
+                    if newWord in bank_set and newWord not in vis : 
+                        q.append((newWord, dist+1)) 
+                        vis.add(newWord) 
         return -1
 
-        
 
+
+
+
+        
