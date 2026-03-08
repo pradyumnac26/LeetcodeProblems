@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0752-open-the-lock) |
 | [0777-toeplitz-matrix](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0800-letter-case-permutation) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-rabbits-in-forest) |
@@ -1244,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0744-network-delay-time) |
+| [0752-open-the-lock](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0752-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0787-sliding-puzzle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
