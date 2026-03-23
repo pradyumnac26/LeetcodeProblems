@@ -1,30 +1,39 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        countT = {} 
-        window = {} 
-        res = [-1, -1]
-        resLen = float('inf')
+        hmap2 = Counter(t) 
         l = 0 
-        for i in range(len(t)): 
-            c = t[i]
-            countT[c] = 1 + countT.get(c,0) 
-        
-        have, need = 0, len(countT)
+        hmap1 = defaultdict(int) 
+        minLen = float('inf')
+        start = 0 
+
+        def compare(hmap1, hmap2): 
+            cnt = 0 
+            for k,v in hmap2.items() : 
+                if k in hmap1 and hmap1[k]>=v : 
+                    cnt+=1 
+            if cnt == len(hmap2) : 
+                return True 
+            else : 
+                return False
+
         for r in range(len(s)): 
-            c = s[r]
-            window[c] = window.get(c, 0) + 1 
-            if c in countT and window[c] == countT[c] : 
-                have = have + 1 
-
-            while have == need : 
-                if r-l+1 < resLen : 
-                    res = [l,r]
-                    resLen = r-l+1
-
-                window[s[l]]-=1
-                if s[l] in countT and window[s[l]] < countT[s[l]] : 
-                    have = have -1  
+            hmap1[s[r]]+=1 
+            while compare(hmap1,hmap2) :
+                if (r-l+1) < minLen : 
+                    minLen = r-l+1 
+                    start = l
+                
+                hmap1[s[l]]-=1 
                 l = l + 1
-        l,r = res
-        return s[l:r+1] if resLen != float('inf') else ""
-         
+            
+        if minLen == float('inf'):
+            return ""
+
+        return s[start:start + minLen]
+
+
+
+
+
+
+        
