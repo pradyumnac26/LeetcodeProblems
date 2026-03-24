@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0433-minimum-genetic-mutation) |
@@ -1072,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2050-count-good-numbers) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0775-n-ary-tree-preorder-traversal) |
