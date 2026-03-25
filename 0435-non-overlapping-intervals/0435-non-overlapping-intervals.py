@@ -7,6 +7,7 @@ class Solution:
         for start, end in intervals[1:] : 
             if start < res[-1][1] : 
                 cnt+=1 
+                res[-1][1] = min(res[-1][1], end)
             else : 
                 res.append([start, end])
         return cnt
