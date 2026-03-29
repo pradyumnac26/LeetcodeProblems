@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0994-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0999-available-captures-for-rook) |
 | [1018-largest-perimeter-triangle](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1025-minimum-cost-for-tickets) |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0861-flipping-an-image) |
+| [0999-available-captures-for-rook](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0999-available-captures-for-rook) |
 | [1184-car-pooling](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1184-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1642-water-bottles) |
@@ -1662,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0999-available-captures-for-rook) |
 | [1022-unique-paths-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1073-number-of-enclaves) |
