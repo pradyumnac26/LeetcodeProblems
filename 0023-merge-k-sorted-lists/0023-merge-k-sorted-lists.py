@@ -6,6 +6,27 @@
 
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+
+        def merge(list1, list2):
+            dummy = ListNode()
+            temp = dummy
+
+            while list1 and list2:
+                if list1.val < list2.val:
+                    temp.next = list1
+                    list1 = list1.next
+                else:
+                    temp.next = list2
+                    list2 = list2.next
+                temp = temp.next
+
+            if list1:
+                temp.next = list1
+            if list2:
+                temp.next = list2
+
+            return dummy.next
+
         if not lists:
             return None
 
@@ -13,26 +34,10 @@ class Solution:
             merged = []
 
             for i in range(0, len(lists), 2):
-                first = lists[i]
-                second = lists[i + 1] if i + 1 < len(lists) else None
-                merged.append(self.merge2Lists(first, second))
+                list1 = lists[i]
+                list2 = lists[i + 1] if i + 1 < len(lists) else None
+                merged.append(merge(list1, list2))
 
             lists = merged
 
         return lists[0]
-
-    def merge2Lists(self, list1, list2):
-        dummy = ListNode()
-        cur = dummy
-
-        while list1 and list2:
-            if list1.val < list2.val:
-                cur.next = list1
-                list1 = list1.next
-            else:
-                cur.next = list2
-                list2 = list2.next
-            cur = cur.next
-
-        cur.next = list1 or list2
-        return dummy.next
