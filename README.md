@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -1562,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0213-house-robber-ii) |
