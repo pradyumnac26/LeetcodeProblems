@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2886-faulty-keyboard](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3034-points-that-intersect-with-cars) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
