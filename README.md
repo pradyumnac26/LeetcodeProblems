@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1731-even-odd-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1731-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2384-root-equals-sum-of-children](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1377,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1731-even-odd-tree](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1731-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2384-root-equals-sum-of-children](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
