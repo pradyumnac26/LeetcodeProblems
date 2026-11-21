@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1514-path-with-maximum-probability) |
 | [1524-string-matching-in-an-array](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1514-path-with-maximum-probability) |
 | [1642-furthest-building-you-can-reach](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1642-furthest-building-you-can-reach) |
 | [1753-path-with-minimum-effort](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1917-maximum-average-pass-ratio) |
@@ -1945,6 +1947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1514-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -2123,6 +2126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0797-all-paths-from-source-to-target) |
+| [1514-path-with-maximum-probability](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1514-path-with-maximum-probability) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Doubly-Linked List
 |  |
@@ -2164,4 +2168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/pradyumnac26/LeetcodeProblems/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
